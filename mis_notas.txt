@@ -1,0 +1,3 @@
+Esta semana aprendí sobre manejo de archivos en Java.
+También practiqué estructuras de control y ciclos.
+Me siento más cómodo programando con clases y métodos.
